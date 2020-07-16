@@ -1,4 +1,4 @@
-package com.example.iot_terminal.ui.dashboard;
+package com.example.iotTerminal.ui.dashboard;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

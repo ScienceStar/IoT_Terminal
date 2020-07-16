@@ -1,4 +1,4 @@
-package com.example.iot_terminal.ui.notifications;
+package com.example.iotTerminal.ui.notifications;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
