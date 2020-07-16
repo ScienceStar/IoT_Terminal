@@ -1,4 +1,4 @@
-package com.example.iotTerminal;
+package com.example.iot_terminal;
 
 import org.junit.Test;
 

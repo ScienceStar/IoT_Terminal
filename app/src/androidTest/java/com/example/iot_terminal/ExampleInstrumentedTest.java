@@ -1,4 +1,4 @@
-package com.example.iotTerminal;
+package com.example.iot_terminal;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

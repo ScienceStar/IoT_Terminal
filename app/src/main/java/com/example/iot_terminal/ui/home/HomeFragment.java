@@ -1,4 +1,4 @@
-package com.example.iotTerminal.ui.home;
+package com.example.iot_terminal.ui.home;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -11,7 +11,8 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 import androidx.navigation.fragment.NavHostFragment;
-import com.example.iotTerminal.R;
+import com.example.iot_terminal.ui.home.HomeFragmentDirections;
+import com.example.iot_terminal.R;
 
 public class HomeFragment extends Fragment {
 

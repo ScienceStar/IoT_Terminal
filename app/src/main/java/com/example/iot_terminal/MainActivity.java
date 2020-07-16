@@ -1,4 +1,4 @@
-package com.example.iotTerminal;
+package com.example.iot_terminal;
 
 import android.os.Bundle;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
